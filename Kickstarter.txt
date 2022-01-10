@@ -1,0 +1,34 @@
+# Kickstarting with Excel
+
+## Overview of Project
+Funding raising
+
+### Purpose
+Fundraising as it relate to launch date
+
+## Analysis and Challenges
+Which month is the best time to start a fundraising campaign and how much is the right around to ask for to 
+meet your your goals. 
+
+### Analysis of Outcomes Based on Launch Date
+Based on launch date I would release in May, it has the most amount of success.
+
+### Analysis of Outcomes Based on Goals
+If you fundraise and ask for too much your tend to be unsuccessful.
+
+### Challenges and Difficulties Encountered
+
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+Fundraise in May and June.
+
+- What can you conclude about the Outcomes based on Goals?
+The more you ask for the more unsuccessful you are.
+
+- What are some limitations of this dataset?
+We don't have enough information about the canceled shows.
+
+- What are some other possible tables and/or graphs that we could create?
