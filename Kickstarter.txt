@@ -9,6 +9,9 @@ Fundraising as it relate to launch date
 ## Analysis and Challenges
 Which month is the best time to start a fundraising campaign and how much is the right around to ask for to 
 meet your your goals. 
+![Outcomes vs Goals](/Outcomes_vs_Goals.png)
+![Theater Outcomes vs Launch](/Theater_Outcomes_vs_Launch.png)
+
 
 ### Analysis of Outcomes Based on Launch Date
 Based on launch date I would release in May, it has the most amount of success.
